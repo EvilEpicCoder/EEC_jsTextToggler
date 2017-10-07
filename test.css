@@ -1,3 +1,16 @@
 *{
 	position:relative;
+	#display:block;
+	text-align:center;
+	#background:black;
+	#color:white;
+	font-family:Roboto;
+	font-size:12px;
+}
+body{
+	text-align: center;
+	width:30%;
+}
+div{
+	border:1px solid red;
 }
