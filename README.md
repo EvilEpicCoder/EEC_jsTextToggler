@@ -12,18 +12,19 @@
 * What cool things I found: it is small and it is my!
 * What I do not like: It do not change text ,but wrapped text loose some beauty.
 * Features: PLUG and PLAY
-* Connect this:
- ```HTML
- <link rel="stylesheet" href="jsTextToggler.css"/>
- <script type="text/javascript" charset="UTF-8" src="EEC_jsTextToggler.js"></script>
- <!-- by default in EEC_jsTextToggler.js function start() is running, for advanced features comment start function -->
- ```
-* Name your div as "info"
-* Init in JavaScript file like:
- ```JavaScript
- var a=new Object(jEEC_info);
- a.start();
- ```
+  * Connect this:
+   ```HTML
+   <link rel="stylesheet" href="jsTextToggler.css"/>
+   <script type="text/javascript" charset="UTF-8" src="EEC_jsTextToggler.js"></script>
+   <!-- by default in EEC_jsTextToggler.js function start() is running, for advanced 
+   features comment start function -->
+   ```
+  * Name your div as "info"
+  * Init in JavaScript file like:
+   ```JavaScript
+   var a=new Object(jEEC_info);
+   a.start();
+   ```
 * Advanced Features:
   * You can change `"classSelector":"info"`and `"textLimit":10`
   ```JavaScript
@@ -39,4 +40,4 @@
  * What I learned JavaScript Objects and Object oriented programming.
 
 
-Version: 0.4b Date: 07.10.2017
+Version: 0.5b Date: 07.10.2017
