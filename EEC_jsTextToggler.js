@@ -1,6 +1,6 @@
 //EvilEpicCoder JavaScript text wrap script
 //add class "info" in to the div and your big text inside will be
-//autoshorted and after click text will unwrap into normal sise
+//autoshorted and after click text will unwrap into normal size
 var jEEC_info={
   "classSelector":"info",
   "textLimit":10,
